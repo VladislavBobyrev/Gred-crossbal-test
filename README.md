@@ -5,7 +5,7 @@
 
 <div align="center">
   
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/Grid-crossbal-test/preview.gif)
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/Grid-crossbal-test/blob/main/preview.gif)
   
 </div>
 <h3  align="center">Общие сведения</h3> 
